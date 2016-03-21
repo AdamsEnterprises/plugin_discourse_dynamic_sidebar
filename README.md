@@ -1,3 +1,7 @@
+### :warning: Warning 1: broken depending on the version of Discourse
+
+### :warning: Warning 2: Conflict with other plugins like [discourse_tagging](https://meta.discourse.org/t/the-official-discourse-tags-plugin-discourse-tagging/26482) and [polls](https://meta.discourse.org/t/improved-polls-in-discourse/32393)
+
 # Discourse dynamic sidebar plugin
 
 This plugin adds a dynamic sidebar on the right of the pages (hidden when the user is inside the topics or when the screen has less than 800px width), wrapping the main content. 
